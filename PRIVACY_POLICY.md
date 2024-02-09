@@ -12,7 +12,7 @@ a. **No Storage of User Content:** We do not store, collect, or retain any user 
 
 **3. Use of the Bot**
 
-a. **Bot Functionality:** The Bot provides its intended functionality within your Discord server without storing or processing user content or message content beyond the scope of immediate execution.
+a. **Bot Functionality:** The Bot is using "Message Content Intents" in order to know, what a user is writing and for it to work properly. The Message Content is not stored and only used in Real-Time.
 
 **4. Data Security and Privacy**
 
