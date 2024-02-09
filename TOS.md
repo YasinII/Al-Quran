@@ -18,7 +18,7 @@ c. You are responsible for managing and moderating the use of the Bot within you
 
 3. **User Content and Data**
 
-a. The Bot does not store or retain any user content or data processed within your Discord server. The Bot operates in real-time and does not maintain a database of user interactions.
+a. The Bot does not store or retain any user content or data processed within your Discord server. The Bot does use "Message Content Intents" which is used so the Bot can see what a user is typing in a chat and work properly.
 
 b. By using the Bot, you acknowledge that no user data is stored for any purpose.
 
