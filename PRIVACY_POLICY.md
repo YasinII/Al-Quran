@@ -1,41 +1,30 @@
-**Privacy Policy for Meliodas Discord Bot**
+**Privacy Policy for the Al-Quran Discord Bot**
 
-Last Updated: 01.10.2023
+Last Updated: 09.02.2024
 
 **1. Introduction**
 
-Welcome to Meliodas Discord bot ("Bot," "we," "us," or "our"). This Privacy Policy is designed to help you understand how we collect, use, process, and safeguard your information when you use our Discord bot.
+Welcome to the "Al-Quran" Discord bot ("Bot," "we," "us," or "our"). These Terms of Service are designed to govern your use of the Bot.
 
-**2. Information We Collect**
+**2. User Content**
 
-a. **User Data:** The Bot may process and store certain information provided by Discord users within your server, including user IDs, message content, and server configurations.
+a. **No Storage of User Content:** We do not store, collect, or retain any user content or message content processed by the Bot within your Discord server. The Bot operates in real-time and does not maintain a database of user interactions.
 
-**3. How We Use Your Information**
+**3. Use of the Bot**
 
-a. **Bot Functionality:** We use the collected data to provide, maintain, and improve the functionality of the Bot within your Discord server.
+a. **Bot Functionality:** The Bot provides its intended functionality within your Discord server without storing or processing user content or message content beyond the scope of immediate execution.
 
-**4. Data Sharing and Disclosure**
+**4. Data Security and Privacy**
 
-a. **Third Parties:** We do not share user data with third parties. The data processed by the Bot is used solely for the purpose of providing its intended functionality within your Discord server.
+a. **No Data Storage:** We affirm that we do not store user content or message content processed by the Bot. The Bot's functionality is designed to respect user privacy and operates without data retention.
 
-**5. Data Retention**
+**5. Changes to these Terms**
 
-a. **Duration:** We retain user data for as long as necessary to fulfill the purposes outlined in this Privacy Policy. Server configurations and related data may be retained as long as the Bot is active in a server.
+a. **Updates:** We reserve the right to update this Privacy Policy at any time. Users are responsible for checking the Privacy Policy for updates. In the event of significant changes, we may notify users through announcements on the official Discord Server of our Bot. The link to the mentioned server is: https://discord.gg/bRWPGeqK7v.
 
-**6. Security**
+**6. Contact Us**
 
-a. **Protection Measures:** We implement reasonable security measures to protect user data from unauthorized access, alteration, disclosure, or destruction.
+a. **Contact E-Mail:** For inquiries or concerns regarding this Privacy Policy, please contact us at the following email address: "yasinkprivate@mail.com.tr".
 
-**7. User Rights**
 
-a. **Access and Deletion:** Users have the right to access their data processed by the Bot. They can also request the deletion of their data.
-
-**8. Changes to this Privacy Policy**
-
-a. **Updates:** We may update this Privacy Policy from time to time. We will notify users of any changes by posting the new Privacy Policy on this page.
-
-**9. Contact Us**
-
-If you have any questions or concerns about this Privacy Policy, please contact us at the following E-Mail: "yasink06@mail.com.tr".
-
-By using the Bot, you signify your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our Bot.
+**By using the Bot, you signify your acceptance of this Privacy Policy. If you do not agree to these Terms, you shall not use our Bot.**
